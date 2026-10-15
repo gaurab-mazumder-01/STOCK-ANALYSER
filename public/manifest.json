@@ -1,0 +1,16 @@
+{
+  "name": "STOCK ANALYSER",
+  "short_name": "STOCK ANALYSER",
+  "description": "Real-Time Stock Market Intelligence and Fundamentals Analysis",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f131b",
+  "theme_color": "#0f131b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64 128x128 256x256 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "STOCK ANALYSER",
+  "description": "Real-Time Stock Market Intelligence and Fundamentals Analysis",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
